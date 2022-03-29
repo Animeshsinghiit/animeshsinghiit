@@ -5,7 +5,7 @@
 - 🔭 I just Started my YouTube Channel: [Animesh Singh[IIT Madras]][course]
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn enough to get an Internship
+- 🥅 2022 Goals: Learn enough to get a PPO
 - ⚡ Fun fact: I love to read about stock market and finance.
 
 ### Connect with me:
