@@ -1,11 +1,11 @@
 ### Hi there, I'm Animesh - aka [MrNalayk][twitter] 👋
 
-## I'm Machine Learning and Data Science Enthusiast!!
+## I'm Machine Learning, Data Science Learner and Full Stack Web Developer!!
 
 - 🔭 I just Started my YouTube Channel: [Animesh Singh[IIT Madras]][course]
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn enough to get a PPO
+- 👯 I’m looking to invest my time in some cool projects that could turn into revolutionary products
+- 🥅 2022 Goals: To make my Father Proud
 - ⚡ Fun fact: I love to read about stock market and finance.
 
 ### Connect with me:
